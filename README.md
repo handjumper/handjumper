@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @handjumper
-- 👀 I’m interested in c python 
+- 👀 I’m interested in c web Blockchain c 
 - 🌱 I’m currently learning sql 
-- 💞️ I’m looking to collaborate on   xxx,i dont konw now
+- 💞️ I’m looking to collaborate on someone ,i dont konw now
 - 📫 How to reach me  handjumper@outlook.com
 
 <!---
